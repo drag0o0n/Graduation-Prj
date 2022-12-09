@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Driver-Drowsiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "outputFile": "C:\\Users\\DRAGON\\StudioProjects\\driver-drowsiness-alert-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nandkishor\\.gradle\\caches\\transforms-2\\files-2.1\\c09b968d925b55dc67c38c937c158cfe\\play-services-wallet-9.4.0\\res\\values-en-rSG\\values.xml",
+                    "source": "C:\\Users\\DRAGON\\.gradle\\caches\\transforms-2\\files-2.1\\37242f5b0042cc105c4a24022c0d892d\\play-services-wallet-12.0.1\\res\\values-en-rSG\\values.xml",
                     "from": {
                         "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "292",
-                        "endColumns": "103",
-                        "endOffsets": "391"
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "99",
+                        "endOffsets": "305"
                     },
                     "to": {
                         "startLines": "2",
